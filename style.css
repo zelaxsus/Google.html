@@ -1,0 +1,55 @@
+ .img
+ {
+     display: flex;
+     justify-content: center;
+ }
+ .search-bar
+ {
+ 
+     background-color: rgb(153, 153, 153);
+     text-align: center;
+ } .search-bar-text
+ {
+     display: flex;
+     width: 1354px;
+     height: 100px;
+     margin: auto;
+    background-color: rgb(153, 153, 153);
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-around;
+    justify-content: space-around;
+    align-items: center;
+
+   
+ }
+ .pw
+ {
+     margin-top: 30px;
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ }
+ 
+.container 
+{
+ display: flex;
+ justify-content: center
+ 
+}
+.content
+{
+    height: 100px;
+    width: 450px;
+    background-color: green;
+    text-align: center;
+    margin: 1px;
+    
+
+}
+
+
+ .A
+ {
+     margin-top: 150px;
+ }
